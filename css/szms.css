@@ -1,0 +1,37 @@
+.oblak{
+  width: 15%;
+  position: absolute;
+  top: 25px;
+  left: 985px;
+}
+
+.planina{
+  width: 40%;
+}
+
+body {
+text-align: center;
+margin: 0px;
+font-family: 'Montserrat', sans-serif;
+background-color: #AFD3E2;
+
+
+
+}
+
+.oblak2 {
+position: absolute;
+margin-bottom: 530px;
+width: 15%;
+right: 985px;
+top: 280px;
+}
+
+.vita {
+  font-family: 'Sacramento', cursive;
+  font-size: 55px;
+}
+
+p {
+font-weight: bold;
+ }

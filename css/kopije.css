@@ -1,0 +1,26 @@
+
+.gornji {
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  border: 10px solid ;
+  padding: 10px;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+.srednji {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  border: 20px solid;
+  margin-left: 240px
+
+}
+
+.donji {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  border: 10px solid;
+  margin-left: 480px;
